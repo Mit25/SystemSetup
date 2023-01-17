@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Eclipse
+Comment=Eclipse
+Exec=/home/mit25/Documents/MySoftware/eclipse-jee-2022-06-R-linux-gtk-x86_64/eclipse
+Icon=/home/mit25/Documents/MySoftware/eclipse-jee-2022-06-R-linux-gtk-x86_64/icon.xpm
+Terminal=false
+Type=Application
+Categories=Utility;Application;
